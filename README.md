@@ -83,6 +83,8 @@ The Entity-Relationship (ER) model clearly defines how these components interact
 A complete video demonstrating all features is available here:  
 🔗 [Watch the Demo Video](https://drive.google.com/drive/folders/1B5kFaRpfCFNJ2ix2IP2RwhphavwPp6td?usp=sharing)
 
+---
+
 ## ✅ Conclusion
 
 **SmartGrade AI** serves as a modern academic decision-support tool that bridges data science with education.  
