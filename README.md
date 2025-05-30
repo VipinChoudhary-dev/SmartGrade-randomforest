@@ -80,7 +80,10 @@ The Entity-Relationship (ER) model clearly defines how these components interact
 
 ## 🎥 Demo
 
+## 🎥 Demo
 
+A complete video demonstrating all features is available here:  
+🔗 [Watch the Demo Video](https://drive.google.com/drive/folders/1B5kFaRpfCFNJ2ix2IP2RwhphavwPp6td?usp=sharing)
 
 ## ✅ Conclusion
 
