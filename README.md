@@ -6,6 +6,13 @@ This project aims to eliminate the guesswork from performance evaluation by intr
 
 ---
 
+## 🎥 Demo
+
+A complete video demonstrating all features is available here:  
+🔗 [Watch the Demo Video](https://drive.google.com/drive/folders/1B5kFaRpfCFNJ2ix2IP2RwhphavwPp6td?usp=sharing)
+
+---
+
 ## 🧠 Project Overview
 
 SmartGrade AI addresses common challenges in academic monitoring such as:
@@ -75,13 +82,6 @@ The Entity-Relationship (ER) model clearly defines how these components interact
 - 🖥️ **Interactive GUI** for data entry, training, prediction, and reporting  
 - 📄 **Generate PDF Reports** of predicted academic outcomes  
 - 🔒 **Modular and Scalable Architecture** for future upgrades like user roles or web version
-
----
-
-## 🎥 Demo
-
-A complete video demonstrating all features is available here:  
-🔗 [Watch the Demo Video](https://drive.google.com/drive/folders/1B5kFaRpfCFNJ2ix2IP2RwhphavwPp6td?usp=sharing)
 
 ---
 
