@@ -96,5 +96,7 @@ With a scalable backend, user-friendly interface, and accurate machine learning 
 
 ## 📬 Contact
 
-For queries or contributions, feel free to open an issue or pull request on GitHub.
+**Developer:** Vipin Choudhary  
+**Email:** vipinchoudhary0911@gmail.com  
+**GitHub:** [github.com/VipinChoudhary-dev](https://github.com/VipinChoudhary-dev)
 
